@@ -4,6 +4,9 @@
 * ゲームエンジン：Unity
 * 製作時間：約1ヶ月
 
+## プレイ動画
+https://github.com/user-attachments/assets/64d13570-71ab-447e-9f6b-5e50d6bbfa0a
+
 ### 特徴
 「時間停止」を基にした様々なパズル
 <p>
