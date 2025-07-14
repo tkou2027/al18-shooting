@@ -1,4 +1,4 @@
-## 「ルインズ・オブ・タイム」 ーー 時間停止の世界で進めよう
+## 「ルインズ・オブ・タイム」 ーー 時の止まった世界で進もう
 
 * 個人制作
 * ゲームエンジン：Unity
@@ -13,8 +13,17 @@ https://github.com/user-attachments/assets/379349db-005c-45d5-91ab-c48b14fe3fba
 <img alt="gameplay_stage" src="doc/images/gameplay_stage.png"  height="180">
 <img alt="gameplay_time" src="doc/images/gameplay_time.png" height="180">
 </p>
+「時間停止」エフェクト
+<p>
+<img alt="gameplay_time" src="doc/images/gameplay_timestop.gif" height="180">
+</p>
+
+
+
+
 
 ## 使用した素材
+
 BGM・効果音：魔王魂
 
 キャラクター動画参考：Arks
