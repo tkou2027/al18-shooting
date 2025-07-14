@@ -5,7 +5,7 @@
 * 制作時間：約1ヶ月
 
 ## プレイ動画
-https://github.com/user-attachments/assets/64d13570-71ab-447e-9f6b-5e50d6bbfa0a
+https://github.com/user-attachments/assets/379349db-005c-45d5-91ab-c48b14fe3fba
 
 ## 特徴
 「時間停止」を基にした様々なパズル
